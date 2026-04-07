@@ -1,11 +1,9 @@
-package Encapsulation;
-
 class Human {
     private int age;
     String name;
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setAge(int a) {
+        age = a;
     }
 
     public int getAge() {
