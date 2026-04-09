@@ -20,7 +20,7 @@ class Car {
 
 public class Main {
     public static void main(String args[]) {
-        // Car obj1 = new Car();
+        Car obj1 = new Car();
 
         Car obj2 = new Car("Ferari", 50000);
     }
