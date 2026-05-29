@@ -1,13 +1,3 @@
-class Calc {
-    public int add(int a, int b) {
-        return a + b;
-    }
-
-    public int sub(int a, int b) {
-        return a - b;
-    }
-}
-
 // extends is used to inherit other classes
 // Here AdvCalc class has all methods inherited from Calc class
 class AdvvCalc extends Calc {
